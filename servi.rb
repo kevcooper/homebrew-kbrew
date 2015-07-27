@@ -1,9 +1,9 @@
 class Servi < Formula
   desc "Super awesome server initialization script!"
   homepage "https://github.com/kevcooper/servi"
-  url "https://github.com/kevcooper/servi/archive/v1.2.tar.gz"
+  url "https://github.com/kevcooper/servi/archive/v1.4.tar.gz"
   head "https://github.com/kevcooper/servi.git"
-  sha256 "90cbb9f68fe9249e183c3925a1fdc05aa37e1e885f068eca9d57bcc8457dbc21"
+  sha256 "1fba3de113d0f25a48389e4a6447797d9ab91e567d3f79a25c519af86ba5f2e2"
 
   def install
     bin.install "servi"
